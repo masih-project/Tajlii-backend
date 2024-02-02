@@ -1,0 +1,9 @@
+version: "3"
+services:
+  test-api:
+    build: .
+    restart: unless-stopped   
+    environment:
+      SASINNET_MONGO_URL: mongodb+srv://root:iKesP3Jcevjbvufu@skanet.xurn9q6.mongodb.net/
+    ports:
+      - "3900:3900"

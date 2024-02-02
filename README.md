@@ -1,0 +1,10 @@
+- all file and folder names should be small kebab case like standard nestjs format
+- all admin routes will be seperated in admin module and in its controller
+- returning response format?
+- 201 response for create and created entity could be returned!
+- 200 for other success responses
+- in edit should use PATCH method and return the edited entity
+- in get simply return the entity
+- in search response should be like this: {count:0 , items:[]}
+- in mongodb schema should use camel case names
+- dto classes should ends with Dto e.g. CreateCategoryDto

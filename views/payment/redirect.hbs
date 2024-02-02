@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Redirection</title>
+</head>
+<body dir='rtl'>
+    <form id="form" action="{{ipgUrl}}" method="post">
+        <input type="hidden" name="Token" value="{{token}}"/>
+        <input type="hidden" name="GetMethod" value=""/>
+        <input type="submit" value="انتقال به درگاه بانک ..." />
+    </form>
+</body>
+<script>
+  document.getElementById("form").submit();
+</script>
+</html>

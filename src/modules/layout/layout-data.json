@@ -1,0 +1,330 @@
+{
+    "isActive": true,
+    "topBanner": {
+        "image": "https://sasinnet.ir/_next/image?url=%2Fimg%2Fads-top.jpg&w=3840&q=75",
+        "link": "https://sasinnet.ir",
+        "title": ""
+    },
+    "navbar": {
+        "logo": "https://sasinnet.ir/logo.svg",
+        "items": [
+            {
+                "title": "خانه",
+                "description": "",
+                "icon": "",
+                "link": ""
+            },
+            {
+                "title": "محصولات",
+                "description": "",
+                "icon": "",
+                "link": "",
+                "submenus": [
+                    {
+                        "title": "دمنوش",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "بهداشتی-کاسنی",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "همه محصولات در همه دسته بندی‌ها",
+                        "description": "از این بخش میتوانید محصولات تخفیف خورده رو هم ببینید:)",
+                        "icon": "",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "title": "پیشنهادات ویژه",
+                "description": "",
+                "icon": "fire",
+                "link": ""
+            },
+            {
+                "title": "ثبت نارضایتی",
+                "description": "",
+                "icon": "",
+                "link": "",
+                "submenus": [
+                    {
+                        "title": "نارضایتی مشتری از شرکت",
+                        "description": "درصورتی که از روند خرید محصولات یا کیفیت ناراضی هستین از این طریق اقدام کنید.",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "نارضایتی شرکت از شرکت",
+                        "description": "این بخش مختص ثبت نارضایتی شرکت های طرف قرارداد می‌باشد.",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "نارضایتی مشتری از بازاریاب",
+                        "description": "اگر مشتری هستین و به هردلیل از بازاریاب شکایت دارید از این بخش اقام کنید.",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "نارضایتی بازاریاب از بازاریاب",
+                        "description": "درصورتی که بازاریاب هستین و از یک بازاریاب دیگر شکایت دارید از این بخش اقدام کنید.",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "نارضایتی بازاریاب از شرکت",
+                        "description": "درصورتی که بازاریاب هستین و از خدمات شرکت شکایت دارید از این بخش اقدام کنید.",
+                        "icon": "",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "title": "قوانین",
+                "description": "",
+                "icon": "",
+                "link": "",
+                "submenus": [
+                    {
+                        "title": "قوانین نظام صنفی",
+                        "description":"قوانین و مقررات وزارت صنعت، معدن و تجارت",
+                        "icon": "bar-chart",
+                        "link": ""
+                    },
+                    {
+                        "title": "قوانین و مقررات شرکت",
+                        "description":"قوانین و مقررات خرید و فعالیت در سایت",
+                        "icon": "bar-chart",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "title": "سوالی دارید",
+                "description": "",
+                "icon": "fire",
+                "link": ""
+            }
+        ],
+        "phone": "02191312319"
+    },
+    "topSlider": [
+        {
+            "image": "https://sasinnet.ir/banners/damnoosh-makhloot.jpg",
+            "mobileImage": "",
+            "text": ""
+        },
+        {
+            "image": "https://sasinnet.ir/banners/damnoosh-gazane.jpg",
+            "mobileImage": "",
+            "text": ""
+        },
+        {
+            "image": "https://sasinnet.ir/banners/casny-saffron.jpg",
+            "mobileImage": "",
+            "text": ""
+        },
+        {
+            "image": "https://sasinnet.ir/banners/casny-skinecrame.jpg",
+            "mobileImage": "",
+            "text": ""
+        },
+        {
+            "image": "https://sasinnet.ir/banners/damnoosh-jinsing.jpg",
+            "mobileImage": "",
+            "text": ""
+        }
+    ],
+    "middleBanner": {
+        "image": "https://sasinnet.ir/img/user-panel.jpg",
+        "mobileImage": "",
+        "title": "با سـاسیـن‌ کسب و کـار خودت رو بساز",
+        "description": "بستر حرفه ای و جدید ساسین‌ راه رو برای شما هموار کرده و میتوانید تمامی پورسانت ها را با شفافیت کامل و محاسبات دقیق در پنل کاربری خود مشاهده و گزارش‌گیری کاملی از شرح فعالیت شبکه ای خود داشته باشید",
+        "buttonLink": "https://sasinnet.ir/register"
+    },
+    "textCards": [
+        {
+            "text": "پشتیبانی ۲۴/۷ تلفنی و آنلاین",
+            "image": "",
+            "mobileImage": "",
+            "link": ""
+        },
+        {
+            "text": "مجوز رسمی از وزارت صنعت معدن و تجارت",
+            "image": "",
+            "mobileImage": "",
+            "link": ""
+        },
+        {
+            "text": "پرداخت دوره ای پورسانت ها",
+            "image": "",
+            "mobileImage": "",
+            "link": ""
+        },
+        {
+            "text":"فرمول محاسبات با حداکثر سود خالص",
+            "image": "",
+            "mobileImage": "",
+            "link": ""
+        }
+    ],
+    "imageCards": [
+        {
+            "text": "",
+            "image": "https://sasinnet.ir/banners/mix-banner.jpg",
+            "mobileImage": "",
+            "link": ""
+        },
+        {
+            "text": "",
+            "image": "https://sasinnet.ir/banners/saffron.jpg",
+            "mobileImage": "",
+            "link": ""
+        },
+        {
+            "text": "https://sasinnet.ir/banners/gav-zban.jpg",
+            "image": "",
+            "mobileImage": "",
+            "link": ""
+        },
+        {
+            "text": "",
+            "image": "https://sasinnet.ir/banners/chai-sabz.jpg",
+            "mobileImage": "",
+            "link": ""
+        }
+    ],
+    "signupButton": {
+        "text": "ثبت نام",
+        "logo": "",
+        "link": "https://sasinnet.ir/register"
+    },
+    "incomePlanButton": {
+        "text": "پلن درامد زایی",
+        "logo": "",
+        "link": "https://cdn.sasinplus.ir/upload/admin/Document/sasinnet-plan-1672178010591-829140448.pdf"
+    },
+    "footer": {
+        "logo": "https://sasinnet.ir/logo-gray.svg",
+        "description": "فعالیت شرکت سلامت انگیزان سینا نوین به صورت یک شخصیت حقوقی مستقل، دارای پروانه کسب بازاریابی شبکه ای مطابق آیین نامه تبصره ماده 87 قانون نظام صنفی می باشد و این شرکت هیچگونه وابستگی به ارگان ها و نهادهای دولتی، غیردولتی و امنیتی ندارد.",
+        "certificates": [
+            "https://sasinnet.ir/img/logonama.png",
+            "https://sasinnet.ir/vezarat.jpg"
+        ],
+        "menus": [
+            {
+                "name": "با ساسین",
+                "items": [
+                    {
+                        "title": "تماس با ما",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "دربــاره مــا",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "اهداف و چشم انداز",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "فرصت‌های شغلی (به زودی)",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "خدمات مشتریان",
+                "items": [
+                    {
+                        "title": "پرسش‌های متداول",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "شرایط بازپسگیری(مرجوع)",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "شرایط استفاده",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    }
+                ]
+            }, {
+                "name": "شبکه محصولات",
+                "items": [
+                    {
+                        "title": "نحوه ثبت سفارش",
+                        "description":"",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "رویه ارسال سفارش",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "پلن درآمدزایی",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "قوانین شبکه سازی",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    }
+                ]
+            }, {
+                "name": "قوانین و مقررات",
+                "items": [
+                    {
+                        "title": "قوانین نظام صنفی",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "قوانین و مقررات شرکت",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "قوانین ثبت نام",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "قوانین عمومی",
+                        "description": "",
+                        "icon": "",
+                        "link": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
